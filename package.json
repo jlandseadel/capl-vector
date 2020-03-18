@@ -1,9 +1,9 @@
 {
-    "name": "capl-vector",
-    "displayName": "CAPL",
+    "name": "capl-vector-ii",
+    "displayName": "CAPL-II",
     "description": "Language Support for Vector CAPL Script in VS Code.",
-    "version": "0.1.1",
-    "publisher": "kmasif",
+    "version": "0.2.0",
+    "publisher": "jlandseadel",
     "engines": {
         "vscode": "^1.25.0"
     },
@@ -32,10 +32,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/kmasif/capl-vector.git"
+        "url": "https://github.com/jlandseadel/capl-vector.git"
     },
     "bugs": {
-        "url": "https://github.com/kmasif/capl-vector/issues",
-        "email": "dev+capl-vector@kmasif.com"
+        "url": "https://github.com/jlandseadel/capl-vector/issues"
     }
 }
